@@ -1,0 +1,13 @@
+C:\Users\Computer\Desktop\HW\LabRob3.4\bin\Debug\netcoreapp3.1\LabRob3.4.exe
+C:\Users\Computer\Desktop\HW\LabRob3.4\bin\Debug\netcoreapp3.1\LabRob3.4.deps.json
+C:\Users\Computer\Desktop\HW\LabRob3.4\bin\Debug\netcoreapp3.1\LabRob3.4.runtimeconfig.json
+C:\Users\Computer\Desktop\HW\LabRob3.4\bin\Debug\netcoreapp3.1\LabRob3.4.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\HW\LabRob3.4\bin\Debug\netcoreapp3.1\LabRob3.4.dll
+C:\Users\Computer\Desktop\HW\LabRob3.4\bin\Debug\netcoreapp3.1\LabRob3.4.pdb
+C:\Users\Computer\Desktop\HW\LabRob3.4\obj\Debug\netcoreapp3.1\LabRob3.4.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\HW\LabRob3.4\obj\Debug\netcoreapp3.1\LabRob3.4.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\HW\LabRob3.4\obj\Debug\netcoreapp3.1\LabRob3.4.AssemblyInfo.cs
+C:\Users\Computer\Desktop\HW\LabRob3.4\obj\Debug\netcoreapp3.1\LabRob3.4.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\HW\LabRob3.4\obj\Debug\netcoreapp3.1\LabRob3.4.dll
+C:\Users\Computer\Desktop\HW\LabRob3.4\obj\Debug\netcoreapp3.1\LabRob3.4.pdb
+C:\Users\Computer\Desktop\HW\LabRob3.4\obj\Debug\netcoreapp3.1\LabRob3.4.genruntimeconfig.cache
